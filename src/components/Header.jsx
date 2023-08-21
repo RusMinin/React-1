@@ -7,3 +7,5 @@ const Header = () => {
 }
 
 export default Header;
+
+// модуляция стилей header
