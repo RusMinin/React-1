@@ -27,3 +27,5 @@ const Profile = () => {
 }
 
 export default Profile;
+
+// модуляция стилей Profile
