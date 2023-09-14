@@ -1,0 +1,12 @@
+.item{
+  color: rgb(117, 48, 182);
+}
+
+/* модуляция стилей Profile */
+
+.item img{
+  width: 50px;
+  height: 80px;
+  border-radius: 30px;
+}
+
